@@ -3,3 +3,4 @@ numpy
 ipywidgets
 IPython
 tqdm
+nodejs
